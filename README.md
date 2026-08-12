@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ashutosh Maurya
 
 🚀 Full Stack Developer | Backend Enthusiast | Problem Solver
-🎓 B.Tech IT @ MMMUT (Final Year)
+🎓 B.Tech IT @ MMMUT'2027
 📍 Mau, Uttar Pradesh, India
 
 ---
@@ -89,26 +89,26 @@
 
 ## 📊 GitHub Stats
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashu2315\&show_icons=true\&theme=tokyonight)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashu2315&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mashu2315\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mashu2315&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mashu2315\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mashu2315&theme=tokyo-night)
 
 ---
 
 ## 🌐 Portfolio & Links
 
 * 🌍 Portfolio: https://ashutoshmaurya-navy.vercel.app/
-* 💼 LinkedIn: (Add your link)
+* 💼 LinkedIn: https://www.linkedin.com/in/ashutosh-maurya-634bb831a/
 * 💻 GitHub: https://github.com/mashu2315
 
 ---
