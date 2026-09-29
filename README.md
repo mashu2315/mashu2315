@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 * 💻 Passionate about building **scalable backend systems & full-stack apps**
-* ⚙️ Strong in **Data Structures & Algorithms (1000+ problems solved)**
+* ⚙️ Strong in **Data Structures & Algorithms (1100+ problems solved)**
 * 🧠 Interested in **System Design, Optimization, and Distributed Systems**
 * 🚀 Currently working on **transport scheduling, VRP, and real-time systems**
 
@@ -56,9 +56,9 @@
 ## 🏆 Achievements
 
 * 🥇 1st Rank in **CODABILITY’26** (600+ participants)
-* 💡 1000+ DSA problems solved
-* 🏅 LeetCode Knight (Peak Rating: 1896)
-* ⭐ CodeChef 2★ (Rating: 1464)
+* 💡 1100+ DSA problems solved
+* 🏅 LeetCode Knight (Peak Rating: 1913)
+* ⭐ CodeChef 2★ (Rating: 1496)
 * ⭐ HackerRank 5★ (C++)
 
 ---
@@ -67,7 +67,7 @@
 
 ### 💻 Languages
 
-`C++` `JavaScript` `TypeScript` `Python` `SQL`
+`C++` `JavaScript` `TypeScript` `Python` `SQL` `Java`
 
 ### ⚙️ Backend
 
@@ -85,18 +85,37 @@
 
 `Docker` `AWS` `Git` `WebSockets` `Supabase` `Razorpay`
 
+<!--
 ---
 
 ## 📊 GitHub Stats
 
 ![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashu2315&show_icons=true&theme=tokyonight&cache_seconds=86400)
+-->
+---
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashu2315&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ---
 
 ## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=mashu2315&theme=tokyonight&hide_border=false)<br/>
+
+---
+
+## 🔥 Most Used Language
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mashu2315&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mashu2315&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+<!--
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mashu2315&theme=tokyonight&cache_seconds=86400)
-
+-->
 ---
 
 ## 📈 Contribution Graph
@@ -118,8 +137,3 @@
 I love solving complex problems and turning them into scalable real-world systems 🚀
 
 ---
-
-<!--
-Auto-generated profile README based on resume data
-Source: Resume
--->
